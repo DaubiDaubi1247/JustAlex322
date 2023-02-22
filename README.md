@@ -13,3 +13,4 @@ Here are some ideas to get you started:
 ### My stat
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JustAlex322&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JustAlex322&theme=github_dark) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JustAlex322&theme=github_dark) 
