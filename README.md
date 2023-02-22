@@ -12,8 +12,4 @@ Here are some ideas to get you started:
 
 ### My stat
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JustAlex322&theme=github_dark)
-<div id="stat" align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?JustAlex322=vn7n24fzkq&theme=github_dark" alt=""/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?JustAlex322=vn7n24fzkq&theme=github_dark" alt=""/>
-     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?JustAlex322=vn7n24fzkq&theme=github_dark" alt=""/>
-</div>
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JustAlex322&theme=github_dark) 
